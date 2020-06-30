@@ -14,3 +14,13 @@ ul li a {
     margin-right: 15px;
     font-weight: 600;
 }
+
+.custom-btn {
+    background-color: #f9c747;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-transform: uppercase;
+    border-radius: 10px;
+}

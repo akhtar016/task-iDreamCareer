@@ -5,7 +5,7 @@ const Navbar = () => {
   return (
     <div className="custom-nav">
       <nav class="navbar navbar-expand-lg navbar-light container">
-        <a class="navbar-brand text-uppercase text-white" id="test" href="#">
+        <a class="navbar-brand text-uppercase text-white" id="test" href="/">
           test
         </a>
         <button
@@ -23,7 +23,7 @@ const Navbar = () => {
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
           <ul class="navbar-nav ml-auto">
             <li class="nav-item active">
-              <a class="nav-link text-white" href="#">
+              <a class="nav-link text-dark custom-btn" href="/">
                 Homepage <span class="sr-only">(current)</span>
               </a>
             </li>
